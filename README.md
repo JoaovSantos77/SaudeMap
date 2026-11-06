@@ -1,4 +1,5 @@
 # 🏥 SaúdeMap
+🔗 **Acesse o app:** https://saudemap.streamlit.app
 
 **Motor de busca de informações territoriais para apoio à gestão pública em saúde.**
 
